@@ -54,8 +54,10 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations.
 
 ## Model Extensions
+
 * [django-model-utils](https://github.com/carljm/django-model-utils/) - Django model mixins and utilities.
 * [django-mptt](https://github.com/django-mptt/django-mptt/) - Utilities for implementing a modified pre-order traversal tree in django.
+* [django-money](https://github.com/django-money/django-money) - Money fields for django forms and models.
 
 ## Search
 * [django-haystack](https://github.com/toastdriven/django-haystack/) - Modular search for Django.
@@ -86,6 +88,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS
 * [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly. 
 
 # Contributing
 
