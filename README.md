@@ -29,7 +29,8 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
 
 ## CSS Framework
-* [django-tailwind](https://github.com/timonweb/django-tailwind)
+* [django-tailwind](https://github.com/timonweb/django-tailwind) - The integration of Tailwind CSS framework with Django a.k.a. Django + Tailwind = :heart:
+
 
 ## Debugging
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
