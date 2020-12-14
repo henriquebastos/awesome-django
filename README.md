@@ -5,6 +5,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 - [Awesome Django](#awesome-django)
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
+    - [CSS Framework](#css-framework)
     - [Debugging](#debugging)
     - [Fields](#fields)
     - [File Transfers](#file-transfers)
@@ -27,16 +28,19 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 ## Asset Management
 * [django-compressor](https://github.com/django-compressor/django-compressor/) - Compresses linked and inline javascript or CSS into a single cached file.
 
+## CSS Framework
+* [django-tailwind](https://github.com/timonweb/django-tailwind)
+
 ## Debugging
 * [django-debug-toolbar](https://github.com/django-debug-toolbar/django-debug-toolbar/) - A configurable set of panels that display various debug information about the current request/response.
 
 ## Fields
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
 * [django-image-tools](https://github.com/bonsaistudio/django-image-tools/) - A package to handle images in Django.
-* [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django. 
+* [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django.
 
 ## File Transfer
-* [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients. 
+* [django-sendfile](https://github.com/johnsensible/django-sendfile/) - This is a wrapper around web-server specific methods for sending files to web clients.
 
 ## Forms
 * [django-crispy-forms](https://github.com/maraujop/django-crispy-forms/) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
@@ -88,7 +92,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS
 * [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
 * [mezzanine](https://github.com/stephenmcd/mezzanine/) - A content management platform built using the Django framework.
-* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly. 
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 
 # Contributing
 
